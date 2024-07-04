@@ -1,0 +1,174 @@
+*{ 
+    margin: 0px;
+    padding: opx;
+    box-sizing: border-box;
+ }
+
+ .past{
+    border: dashed;
+    width: 300px;
+    height: 300px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+ }
+
+ .lap{
+    border: dashed;
+    height: 40px;
+ }
+
+ .tin{
+    border: dashed;
+    height: 40px;
+ }
+
+.car {
+    width: 300px;
+    height: 300px;
+    border: dashed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 50px;
+}
+
+.big {
+    border: dashed;
+    height: 40px;
+}
+
+.dog {
+    border: dashed;
+    height: 40px;
+}
+
+.pig {
+    width: 300px;
+    height: 300px;
+    border: dashed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: end;
+    margin-top: 50px;
+}
+
+.leg .lie {
+    border: dashed;
+    width: 70px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.screen {
+    width: 300px;
+    height: 300px;
+    border: dashed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.paper .cord{
+    border: dashed;
+    width: 70px;
+    height: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.tab {
+    width: 300px;
+    height: 300px;
+    border: dashed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.bike .socket{
+    border: dashed;
+    width: 70px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.handle {
+    width: 300px;
+    height: 300px;
+    border: dashed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+    align-items: center;
+}
+
+.tap .cam {
+    border: dashed;
+    width: 70px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.nothing {
+    width: 300px;
+    height: 300px;
+    border: dashed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.great .good {
+    width: 70px;
+    border: dashed;
+    padding: 0px;
+    margin: 0px;
+}
+
+.cap{
+    width: 300px;
+    height: 300px;
+    border: dashed;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.food {
+    border: dashed;
+    height: 40px;
+}
+
+.pit {
+    border: dashed;
+    height: 40px;
+}
+
+.page{
+    width: 300px;
+    height: 300px;
+    border: dashed;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.pan {
+    border:dashed;
+    height: 40px;
+}
+
+.ban{
+    border: dashed;
+    height: 40px;
+}
